@@ -9,7 +9,7 @@ public class Demo {
 		String uname = "root";
 		String pass = "root123";
 		System.out.println("\n ----------TAMILNADU E-bill-----------\n\n\t1. New Customer\n\t2.  Print Bill\n\t3.  Payment Integration\n\t4.Exit");
-		System.out.println("Enter your choice : ");
+		System.out.println("Enter your option : ");
 		int c = sc.nextInt();
 	
 		    switch(c){
